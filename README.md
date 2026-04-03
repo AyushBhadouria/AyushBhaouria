@@ -49,4 +49,4 @@ Full-stack web developer passionate about building responsive, accessible web ap
 ](https://github.com/AyushBhadouria)
 
 ---
-⚡ Currently open to **internship and junior developer opportunities!**
+⚡ Currently open to ** Full-Stack developer opportunities!**
